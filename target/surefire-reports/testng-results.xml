@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="5" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-31T08:42:43 IST" name="Command line suite" finished-at="2022-05-31T08:42:57 IST" duration-ms="13597">
+    <groups>
+    </groups>
+    <test started-at="2022-05-31T08:42:43 IST" name="Command line test" finished-at="2022-05-31T08:42:57 IST" duration-ms="13597">
+      <class name="tests.SearchGoogleTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.SearchGoogleTest@3754a4bf]" started-at="2022-05-31T08:42:54 IST" name="beforeMethod" finished-at="2022-05-31T08:42:55 IST" duration-ms="473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="searchtest()[pri:0, instance:tests.SearchGoogleTest@3754a4bf]" started-at="2022-05-31T08:42:55 IST" name="searchtest" finished-at="2022-05-31T08:42:57 IST" duration-ms="2108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchtest -->
+      </class> <!-- tests.SearchGoogleTest -->
+      <class name="tests.EmailGoogleTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:tests.EmailGoogleTest@5e0e82ae]" started-at="2022-05-31T08:42:43 IST" name="launchBrowser" finished-at="2022-05-31T08:42:45 IST" duration-ms="1927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.EmailGoogleTest@5e0e82ae]" started-at="2022-05-31T08:42:45 IST" name="beforeMethod" finished-at="2022-05-31T08:42:46 IST" duration-ms="1254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="searchtest()[pri:0, instance:tests.EmailGoogleTest@5e0e82ae]" started-at="2022-05-31T08:42:46 IST" name="searchtest" finished-at="2022-05-31T08:42:51 IST" duration-ms="4074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchtest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.EmailGoogleTest@5e0e82ae]" started-at="2022-05-31T08:42:51 IST" name="beforeMethod" finished-at="2022-05-31T08:42:51 IST" duration-ms="686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="searchtestnew()[pri:0, instance:tests.EmailGoogleTest@5e0e82ae]" started-at="2022-05-31T08:42:51 IST" name="searchtestnew" finished-at="2022-05-31T08:42:54 IST" duration-ms="2814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchtestnew -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:tests.EmailGoogleTest@5e0e82ae]" started-at="2022-05-31T08:42:57 IST" name="closeDriver" finished-at="2022-05-31T08:42:57 IST" duration-ms="205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- tests.EmailGoogleTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
