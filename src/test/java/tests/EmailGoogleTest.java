@@ -32,5 +32,10 @@ public class EmailGoogleTest extends InintClass {
 		
 	}
 	
+	@Test
+	public void sarthakFunc() {
+		
+	}
+	
 
 }
