@@ -9,7 +9,7 @@ public class EmailGoogleTest extends InintClass {
 	
 	
 	@Test
-	public void searchtest() throws InterruptedException {
+	public void clickgmaillink() throws InterruptedException {
 		
 		
 		googlepagetwo.searchnew();
@@ -21,10 +21,10 @@ public class EmailGoogleTest extends InintClass {
 	}
 	
 	@Test
-	public void searchtestnew() throws InterruptedException {
+	public void clickimagelink() throws InterruptedException {
 		
 		
-		googlepagetwo.searchnew();
+		googlepagetwo.clickimage();
 		
 		
 		
