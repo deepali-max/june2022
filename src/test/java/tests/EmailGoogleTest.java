@@ -8,6 +8,7 @@ import init.InintClass;
 public class EmailGoogleTest extends InintClass {
 	
 	
+	
 	@Test
 	public void clickgmaillink() throws InterruptedException {
 		
@@ -19,7 +20,8 @@ public class EmailGoogleTest extends InintClass {
 		
 		
 		
-	}
+	}	
+
 	
 	@Test
 	public void clickimagelink() throws InterruptedException {
@@ -33,5 +35,9 @@ public class EmailGoogleTest extends InintClass {
 		
 	}
 	
+	@Test
+	public void sarthakFunc() {
+		
+	}
 
 }

@@ -28,5 +28,9 @@ public class SearchGooglePage {
 		
 		
 	}
+	
+	public void sarthak1() {
+		
+	}
 
 }
