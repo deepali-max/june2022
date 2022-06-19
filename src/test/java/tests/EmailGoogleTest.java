@@ -8,23 +8,25 @@ import init.InintClass;
 public class EmailGoogleTest extends InintClass {
 	
 	
-	@Test
-	public void searchtest() throws InterruptedException {
-		
-		
-		googlepagetwo.searchnew();
-		
-		
-		
-		
-		
-	}
 	
 	@Test
-	public void searchtestnew() throws InterruptedException {
+	public void clickgmaillink() throws InterruptedException {
 		
 		
 		googlepagetwo.searchnew();
+		
+		
+		
+		
+		
+	}	
+
+	
+	@Test
+	public void clickimagelink() throws InterruptedException {
+		
+		
+		googlepagetwo.clickimage();
 		
 		
 		
@@ -36,6 +38,5 @@ public class EmailGoogleTest extends InintClass {
 	public void sarthakFunc() {
 		
 	}
-	
 
 }

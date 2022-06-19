@@ -26,5 +26,12 @@ public class SearchGoogletwoPage {
 		driver.findElement(By.xpath("//a[text()='Gmail']")).click();
 		Thread.sleep(2000);
 	}
+	
+public void clickimage() throws InterruptedException {
+		
+		
+		driver.findElement(By.xpath("//a[text()='Images']")).click();
+		Thread.sleep(2000);
+	}
 
 }
